@@ -7,5 +7,5 @@ Some employees at Flatiron School may have titles like "Senior Manager" which re
 We have people managers across all teams at Flatiron School and they exist at different levels of seniority (Manager, Senior Manager, Director, VP, C-Suite)
 
 <p align="center">
-  <img src=""/>
+  <img src="https://www.dropbox.com/s/ycydl0j7mlq3h5e/Screen%20Shot%202017-08-04%20at%203.57.03%20PM.png?dl=0"/>
 </p>
