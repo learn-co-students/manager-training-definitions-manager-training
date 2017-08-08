@@ -4,6 +4,5 @@ Here at Flatiron School, we define a **people manager** as someone who oversees 
 
 We have people managers across all teams at Flatiron School and they exist at different levels of seniority (Manager, Senior Manager, Director, VP, C-Suite)
 
-<p align="center">
-  <img src=""/>
-</p>
+![Span of Responsibility Table](https://user-images.githubusercontent.com/18661767/28984867-f6d775c2-792d-11e7-937a-7ad05b0328ee.png)
+
