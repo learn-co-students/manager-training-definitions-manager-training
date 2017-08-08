@@ -1,4 +1,4 @@
-# How we Define Manager and Management
+# Defining a Manager
 
 Here at Flatiron School, we define a **people manager** as someone who oversees at least one direct report, is responsible for said direct report’s success, and is accountable for achieving team business results 
 
